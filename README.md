@@ -1,4 +1,4 @@
-# Spotify-Top-200-Charts
+# Spotify-Exploratory-Analysis
 
 <img src="https://miro.medium.com/max/1400/1*-ggtLghCsJXwJht2h4aMpg.png" />
 
