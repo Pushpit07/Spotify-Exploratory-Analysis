@@ -5,6 +5,7 @@
 <br/>
 
 Colab Notebook- https://colab.research.google.com/drive/1IRViPk2jHrE0UQejdjZSp7dTwbG-hky3?usp=sharing
+Document- https://docs.google.com/document/d/1BBQJMKw9zrhaRRO0wIqSy8kJTYgS0hm7L3mZKVAPkB4/edit?usp=sharing
 
 Over the centuries music has continued to be an indispensable aspect of our daily life. Not a day passes by without us humming a tune or listening to one. The sources of listening to music have also evolved over time. From the vintage vinyl discs through mix tapes through radio, our listening medium has now reached online music-streaming platforms of which Spotify, Apple Music, Google Play, etc. are some of the most popular ones.
 
